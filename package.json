@@ -1,0 +1,17 @@
+{
+  "name": "questiongenerator",
+  "version": "1.0.0",
+  "main": "extractQuestions.js",
+  "scripts": {
+    "dev" : "nodemon --ignore ./questions.js extractQuestions.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "tesseract.js": "^5.1.1"
+  }
+}
