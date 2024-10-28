@@ -1,5 +1,5 @@
-MCQ_SS
-
+Backend/MCQ_SS
+.DS_Store
 
 
 
@@ -46,7 +46,8 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+Backend/node_modules/
+Frontend/node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
