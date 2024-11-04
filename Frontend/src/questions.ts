@@ -286,7 +286,7 @@ export const questions: Question[] = [
         "text": "Communication Skills"
       },
       {
-        "id": "f",
+        "id": "e",
         "text": "All of them"
       }
     ],
@@ -322,8 +322,12 @@ export const questions: Question[] = [
         "text": "1906"
       },
       {
+        "id": "a",
+        "text": "1976"
+      },
+      {
         "id": "c",
-        "text": ". 1900"
+        "text": "1900"
       },
       {
         "id": "d",
@@ -359,7 +363,7 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "a",
-        "text": "” Intelligence, Agile, Automated and on the Cloud"
+        "text": "Intelligence, Agile, Automated and on the Cloud"
       },
       {
         "id": "b",
@@ -432,6 +436,10 @@ export const questions: Question[] = [
         "text": "2015"
       },
       {
+        "id": "c",
+        "text": "2016"
+      },
+      {
         "id": "d",
         "text": "2018"
       }
@@ -441,21 +449,22 @@ export const questions: Question[] = [
   {
     "question": "What are the 4 V’s of big Data?",
     "options": [
+
       {
         "id": "a",
-        "text": "None of the above"
-      },
-      {
-        "id": "b",
         "text": "Volume, Velocity, Variety, Veracity"
       },
       {
-        "id": "c",
+        "id": "b",
         "text": "Volume, Viscosity, Variety, Veracity"
       },
       {
-        "id": "d",
+        "id": "c",
         "text": "Volume, Velocity, Viscosity, Variety"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
       }
     ],
     "correctAnswers": "Volume, Velocity, Variety, Veracity"
@@ -470,6 +479,10 @@ export const questions: Question[] = [
       {
         "id": "b",
         "text": "Velocity"
+      },
+      {
+        "id": "b",
+        "text": "Variety"
       },
       {
         "id": "d",
@@ -487,7 +500,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "IBM BlueMix"
+        "text": "IBM Watson"
       },
       {
         "id": "d",
@@ -656,7 +669,7 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "a",
-        "text": ".1Tme"
+        "text": "True"
       },
       {
         "id": "b",
@@ -666,7 +679,7 @@ export const questions: Question[] = [
     "correctAnswers": "True"
   },
   {
-    "question": "Which one 1s not one of the Cloud based services",
+    "question": "Which one is not one of the Cloud based services",
     "options": [
       {
         "id": "a",
@@ -692,15 +705,19 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "a",
-        "text": "All of the above"
+        "text": "Volume of Data"
       },
       {
         "id": "b",
         "text": "Performance Expectations"
       },
       {
+        "id": "c",
+        "text": "Elementary Expense "
+      },
+      {
         "id": "d",
-        "text": "Elementary Expense"
+        "text": "All of the above"
       }
     ],
     "correctAnswers": "All of the above"
@@ -715,6 +732,10 @@ export const questions: Question[] = [
       {
         "id": "b",
         "text": "Service as a Support"
+      },
+      {
+        "id": "c",
+        "text": "Software as a Support"
       },
       {
         "id": "d",
@@ -733,6 +754,10 @@ export const questions: Question[] = [
       {
         "id": "b",
         "text": "Hybrid Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Public Cloud"
       },
       {
         "id": "d",
@@ -772,7 +797,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "All of the above"
+        "text": "Traditional Symbolic AI"
       },
       {
         "id": "c",
@@ -780,13 +805,13 @@ export const questions: Question[] = [
       },
       {
         "id": "d",
-        "text": "Traditional Symbolic Al"
+        "text": "All of the above"
       }
     ],
     "correctAnswers": "All of the above"
   },
   {
-    "question": "The Science behind simulating structures inside brain is called as",
+    "question": "The Science behind simulating structures inside brain is called as ______.",
     "options": [
       {
         "id": "a",
@@ -816,7 +841,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "Intuitive bases"
+        "text": "Intuition based"
       },
       {
         "id": "c",
@@ -827,7 +852,7 @@ export const questions: Question[] = [
         "text": "Step by step"
       }
     ],
-    "correctAnswers": "Intuitive based"
+    "correctAnswers": "Intuition based"
   },
   {
     "question": "The study of computer algorithms that improve automatically through experience is called as ______ .",
@@ -856,7 +881,7 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "a",
-        "text": "” MFDM Execution Model"
+        "text": "MFDM Execution Model"
       },
       {
         "id": "b",
@@ -864,7 +889,7 @@ export const questions: Question[] = [
       },
       {
         "id": "c",
-        "text": "All of them"
+        "text": "MFDM Framework"
       },
       {
         "id": "d",
@@ -872,7 +897,7 @@ export const questions: Question[] = [
       },
       {
         "id": "e",
-        "text": "MFDM Framework"
+        "text": "All of them"
       }
     ],
     "correctAnswers": "All of them"
@@ -890,7 +915,7 @@ export const questions: Question[] = [
       },
       {
         "id": "c",
-        "text": "— Ubiquitous"
+        "text": "Ubiquitous"
       },
       {
         "id": "d",
@@ -908,7 +933,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "Enterprisé¢ Intelligent Automation"
+        "text": "Enterprise Intelligent Automation"
       },
       {
         "id": "c",
@@ -944,7 +969,7 @@ export const questions: Question[] = [
     "correctAnswers": "Embedding security in every system"
   },
   {
-    "question": "You have developed a new ordering system for your client. Client appreciated your post production of new system. A copy hte code and send it to your personal mail for future reference. Is it acceptable?",
+    "question": "You have developed a new ordering system for your client. Client approached you post production of the new system. As you have developed it, you thought to copy the code and send it to your personal mail for your future reference. Is it acceptable?",
     "options": [
       {
         "id": "a",
@@ -978,13 +1003,13 @@ export const questions: Question[] = [
       },
       {
         "id": "d",
-        "text": "\"\" +932"
+        "text": "1932"
       }
     ],
-    "correctAnswers": "Ans: - 1932"
+    "correctAnswers": "1932"
   },
   {
-    "question": "Medical Robots can perform Surgical Operations independently",
+    "question": "Medical Robots can perform Surgical Operations independently?",
     "options": [
       {
         "id": "a",
@@ -1003,12 +1028,16 @@ export const questions: Question[] = [
       {
         "id": "a",
         "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
       }
     ],
     "correctAnswers": "False"
   },
   {
-    "question": "Which 1s India’s first indigenously designed and manufactured car?",
+    "question": "Which is India’s first indigenously designed and manufactured car?",
     "options": [
       {
         "id": "a",
@@ -1073,6 +1102,14 @@ export const questions: Question[] = [
         "text": "89"
       },
       {
+        "id": "c",
+        "text": "33"
+      },
+      {
+        "id": "d",
+        "text": "47"
+      },
+      {
         "id": "d",
         "text": "Over 100"
       }
@@ -1132,18 +1169,18 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "* Jamsetji"
+        "text": "Jamsetji Tata"
       },
       {
         "id": "c",
-        "text": ". Dorabji Tata"
+        "text": "Dorabji Tata"
       },
       {
         "id": "d",
         "text": "Ratan Tata"
       }
     ],
-    "correctAnswers": "Jamsetj1 Tata"
+    "correctAnswers": "Jamsetji Tata"
   },
   {
     "question": "For organizations that aren't currently looking to do big data analytics, there is little or no benefit to examining the data they're being used",
@@ -1168,7 +1205,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "None of these"
+        "text": "Embracing risk and adapt and transform continuously"
       },
       {
         "id": "c",
@@ -1176,7 +1213,7 @@ export const questions: Question[] = [
       },
       {
         "id": "d",
-        "text": "Embracing risk and adapt and transform continuously"
+        "text": "None of these"
       }
     ],
     "correctAnswers": "Embracing risk and adapt and transform continuously"
@@ -1186,7 +1223,7 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "a",
-        "text": "Jamsetj Tata"
+        "text": "Jamsetji Tata"
       },
       {
         "id": "b",
@@ -1251,8 +1288,12 @@ export const questions: Question[] = [
     "question": "In the 1990°s which company did TATA Steel acquire?",
     "options": [
       {
-        "id": "b",
+        "id": "a",
         "text": "ArcelorMittal"
+      },
+      {
+        "id": "b",
+        "text": "Corus"
       },
       {
         "id": "c",
@@ -1288,7 +1329,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "Tata'Engineering and Locomotive Company"
+        "text": "Tata Engineering and Locomotive Company"
       },
       {
         "id": "c",
@@ -1325,6 +1366,10 @@ export const questions: Question[] = [
       {
         "id": "b",
         "text": "John McCarthy"
+      },
+      {
+        "id": "c",
+        "text": "Dennis Ritchie"
       },
       {
         "id": "d",
@@ -1378,25 +1423,25 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "~ Creating exponential values"
+        "text": "Creating exponential values"
       },
       {
         "id": "c",
-        "text": "~All of the above"
+        "text": "Mass personalization"
       },
       {
         "id": "d",
-        "text": "Mass personalization"
+        "text": "All of the above"
       }
     ],
-    "correctAnswers": "all of the above"
+    "correctAnswers": "All of the above"
   },
   {
     "question": "Some challenges in Artificial Intelligence are",
     "options": [
       {
         "id": "a",
-        "text": "All of the above"
+        "text": "Cost"
       },
       {
         "id": "b",
@@ -1404,14 +1449,14 @@ export const questions: Question[] = [
       },
       {
         "id": "c",
-        "text": "~ Technology"
+        "text": "Technology"
       },
       {
         "id": "d",
-        "text": "Cost"
+        "text": "All of the above"
       }
     ],
-    "correctAnswers": "all of the above"
+    "correctAnswers": "All of the above"
   },
   {
     "question": "Business 4.0 brings sophistication to the",
@@ -1422,11 +1467,15 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": ". Demand chain"
+        "text": "Demand chain"
       },
       {
         "id": "c",
-        "text": ". Demand-Supply"
+        "text": "Demand-Supply"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
       }
     ],
     "correctAnswers": "Demand-Supply"
@@ -1476,7 +1525,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "‘Space Research"
+        "text": "Space Research"
       },
       {
         "id": "c",
@@ -1509,7 +1558,7 @@ export const questions: Question[] = [
         "text": "270 petabytes"
       }
     ],
-    "correctAnswers": "Ans: - 2.7 zetabytes"
+    "correctAnswers": "2.7 zetabytes"
   },
   {
     "question": "90% of the world’s data was created in the last",
@@ -1534,7 +1583,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "None of those"
+        "text": "Starbucks and Cafe Coffee Day"
       },
       {
         "id": "c",
@@ -1542,13 +1591,11 @@ export const questions: Question[] = [
       },
       {
         "id": "d",
-        "text": "Starbucks and Cafe Coffee Day"
+        "text": "None of those"
       }
     ],
     "correctAnswers": "Tata Global Beverages and Starbucks"
   },
-
-  // Start Here
   {
     "question": "How many industries do TCS provides its consultancy?",
     "options": [
@@ -1569,7 +1616,7 @@ export const questions: Question[] = [
         "text": "15"
       }
     ],
-    "correctAnswers": "Ans: 12"
+    "correctAnswers": "12"
   },
   {
     "question": "What is the name of the first research center established by TCS?",
@@ -1594,7 +1641,7 @@ export const questions: Question[] = [
     "correctAnswers": "Tata Research Development and Design Center (TRDDC)"
   },
   {
-    "question": "82. What was TCS’s first onsite project?",
+    "question": "What was TCS’s first onsite project?",
     "options": [
       {
         "id": "a",
@@ -1616,7 +1663,7 @@ export const questions: Question[] = [
     "correctAnswers": "Institutional Group and Information Company (IGIC)"
   },
   {
-    "question": "TCS is ______ largest IT firm in the world?",
+    "question": "TCS is ______ largest IT firm in the world(2024)?",
     "options": [
       {
         "id": "a",
@@ -1635,7 +1682,7 @@ export const questions: Question[] = [
         "text": "6th"
       }
     ],
-    "correctAnswers": "Ans: A"
+    "correctAnswers": "8th"
   },
   {
     "question": "Who is TCS first General Manager?",
@@ -1669,13 +1716,13 @@ export const questions: Question[] = [
     },
     {
       "id": "c",
-      "text": "Custom Application Development, Application Management, Migration and Re-engineering, System Integration, Testing, Performance Engineering"
+      "text": "Application development & maintenance, enterprise infrastructure management, cloud migration, cybersecurity, and data services"
     },
     {
       "id": "d",
       "text": "Customer Development, Application Management, Migration and Re-engineering, Business Management, Testing, Performance Engineering"
     }],
-    "correctAnswers": "Custom Application Development, Application Management, Migration and Re-engineering, Business Management, Testing, Performance Engineering"
+    "correctAnswers": "Application development & maintenance, enterprise infrastructure management, cloud migration, cybersecurity, and data services"
   },
   {
     "question": "Which model does TCS follow?",
@@ -1719,13 +1766,7 @@ export const questions: Question[] = [
         "text": "2004"
       }
     ],
-    "correctAnswers": "d"
-  },
-
-  {
-    "question": "We use Natural Language Processing for",
-    "options": [],
-    "correctAnswers": "True"
+    "correctAnswers": "2004"
   },
   {
     "question": "Which institution was set up in 1936, a pioneer in the social work education in Asia-specific region?",
@@ -1758,7 +1799,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "~ Tetley"
+        "text": "Tetley"
       },
       {
         "id": "c",
@@ -1794,7 +1835,7 @@ export const questions: Question[] = [
     "correctAnswers": "2003"
   },
   {
-    "question": "In which year, TCS completed 1ts 50 glorious years?",
+    "question": "In which year, TCS completed its 50 glorious years?",
     "options": [
       {
         "id": "a",
@@ -1871,6 +1912,10 @@ export const questions: Question[] = [
         "text": "Ford"
       },
       {
+        "id": "c",
+        "text": "Hyundai"
+      },
+      {
         "id": "d",
         "text": "GMC"
       }
@@ -1930,7 +1975,7 @@ export const questions: Question[] = [
       },
       {
         "id": "b",
-        "text": "~ Manufacturing"
+        "text": "Manufacturing"
       },
       {
         "id": "c",
@@ -2007,7 +2052,7 @@ export const questions: Question[] = [
         "text": "Tata Business Excellence Model (TBEM)"
       }
     ],
-    "correctAnswers": "Corporate Social Responsibility"
+    "correctAnswers": "Corporate Social Responsibility (CSR)"
   },
   {
     "question": "India’s best-known Cancer Hospital and Research Center",
