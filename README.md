@@ -2,7 +2,7 @@
 
 ### Story of this project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recently cleared TCS nqt exam. As a result TCS sent me 120hours of course content in XPLORE to do before joining. It's not manadatory to complete them but its recommended to learn about the organisation and courses they shared in XPLORE program.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a part of XPLORE program new candidates also have to give internal IPA exam. This exam have a section Called KYT (Know Your TCS). To practice this section I was looking for questions on the internet. I found a youtube video by [BrainyBeast2.0](https://www.youtube.com/watch?v=5qap5aO4i9A) which has 100 most repetitive questions asked in KYT section.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a part of XPLORE program new candidates also have to give internal IPA exam. This exam have a section Called KYT (Know Your TCS). To practice this section I was looking for questions on the internet. I found a youtube video by [BrainyBeast2.0](https://www.youtube.com/@brainybeast2.0) which has 100 most repetitive questions asked in KYT section.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since I got question set I was looking for. I started to practice and found some patterns in the video and a [Curious developer](https://bewake24.valeff.com) inside me found some patterns and I decided to build this project. So I used machine learning to extract questions from the video and Reactjs for frontend to practice the question.
 ************************
 
@@ -15,7 +15,7 @@
 ************************
 
 ### Credits 
- A huge thanks to [BrainyBeast2.0](https://www.youtube.com/watch?v=5qap5aO4i9A) for his video. Please checkout his channel.\
+ A huge thanks to [BrainyBeast2.0](https://www.youtube.com/@brainybeast2.0) for his video. Please checkout his channel.\
 Please 🌟 start and follow me to get updates on this repository . More questions will be added soon.
 
 [![BrainyBeast2.0](http://i.ytimg.com/vi/rg7Dy7OKZLQ/hqdefault.jpg)](https://www.youtube.com/watch?v=rg7Dy7OKZLQ)
